@@ -1,9 +1,9 @@
 📺李大国测试,#genre#
-湖南卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+MTV_Biggest_Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 📺李佳诺测试,#genre#
 吉林卫视,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/ott.mobaibox.com/PLTV/4/224/3221228130/index.m3u8
 来源李大国,#genre#
-独家专用配置,http://live.nctv.top/6688/hntv.php?id=hnxw
+独家专用配置,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 音乐频道,#genre#
 独家专用配置,http://live.nctv.top/6688/hntv.php?id=hnxw
 港澳台AKTV频道,#genre#
