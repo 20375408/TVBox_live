@@ -2,7 +2,14 @@
 湖南卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 📺李佳诺测试,#genre#
 吉林卫视,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/ott.mobaibox.com/PLTV/4/224/3221228130/index.m3u8
-
+来源李大国,#genre#
+独家专用配置,http://live.nctv.top/6688/hntv.php?id=hnxw
+音乐频道,#genre#
+独家专用配置,http://live.nctv.top/6688/hntv.php?id=hnxw
+港澳台AKTV频道,#genre#
+東森新聞,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
+2,http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+3,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 国际时事,#genre#
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/1.m3u8
