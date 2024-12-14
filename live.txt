@@ -1,15 +1,24 @@
-📺河南本地,#genre#
-河南新闻频道,http://live.nctv.top/6688/hntv.php?id=hnxw
-河南都市频道,http://live.nctv.top/6688/hntv.php?id=hnds
-河南民生频道,http://live.nctv.top/6688/hntv.php?id=hnms
-河南公共频道,http://live.nctv.top/6688/hntv.php?id=hngg
-河南电视剧频道,http://live.nctv.top/6688/hntv.php?id=hndsj
-河南乡村频道,http://live.nctv.top/6688/hntv.php?id=hnxc
-河南梨园频道,http://live.nctv.top/6688/hntv.php?id=hnly
-河南文物宝库,http://live.nctv.top/6688/hntv.php?id=wwbk
-河南武术世界,http://live.nctv.top/6688/hntv.php?id=wspd
-睛彩中原,http://live.nctv.top/6688/hntv.php?id=jczy
-象视界,http://live.nctv.top/6688/hntv.php?id=xsj
+📺李大国测试,#genre#
+湖南卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+📺李佳诺测试,#genre#
+吉林卫视,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/ott.mobaibox.com/PLTV/4/224/3221228130/index.m3u8
+
+国际时事,#genre#
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/1.m3u8
+凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+NHK World,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+AlJazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+Arirang TV,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+RT Español,https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
+RT Français,https://rt-fra.rttv.com/dvr/rtfrance/playlist_4500Kb.m3u8
+RT Arabic,https://rt-arb.rttv.com/dvr/rtarab/playlist_4500Kb.m3u8
+RT DE,https://rt-ger.rttv.com/dvr/rtdeutsch/playlist_4500Kb.m3u8
+RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+RT Doc-Русский,https://hls.rt.com/hls/rtdru360.m3u8
+
 🇨🇳卫视频道,#genre#
 安徽卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226391/index.m3u8
 安徽卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
